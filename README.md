@@ -95,7 +95,11 @@ php artisan migrate --seed
 
 php artisan storage:link
 
+npm install
+
 php artisan serve
+
+npm run dev (terminal baru)
 ```
 
 ## Demo Credentials
